@@ -1,4 +1,4 @@
-[![MasterHead](https://www.codecademy.com/resources/blog/content/images/size/w1600/2021/10/What-is-collaborative-coding-.png)]
+![MasterHead](https://www.codecademy.com/resources/blog/content/images/size/w1600/2021/10/What-is-collaborative-coding-.png)
 <!-- https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif -->
 <!-- (https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Abhishek Raj</h1>
