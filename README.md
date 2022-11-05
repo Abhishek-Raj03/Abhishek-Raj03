@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhishek-Raj03
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a MERN stack Developer
 - 📫 How to reach me :- abhishekraj100001@gmail.com
 
 <!---
