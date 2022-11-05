@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abhishek" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek?logo=twitter&style=for-the-badge" alt="abhishek" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tskee6" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek?logo=twitter&style=for-the-badge" alt="abhishek" /></a> </p>
 
 - 🔭 I’m currently working on [codeial-live](https://github.com/Abhishek-Raj03/codeial-live.git)
 
